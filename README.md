@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 About Me:
+## 🧑🏻‍ About Me:
 - 👋 Hi, I’m Shaquille Rizki Ramadhan Na
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Andriod and Multiplatform development
