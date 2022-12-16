@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shaqna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shaquille Rizki Ramadhan Na
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Andriod and Multiplatform development
+- 💞️ I’m looking to collaborate on Mobile Development
+- 📫 How to reach me https://www.linkedin.com/in/shaquillerizki/
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaqna&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaqna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
