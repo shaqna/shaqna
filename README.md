@@ -1,7 +1,7 @@
 ## 🧑🏻‍ About Me:
 - 👋 Hi, I’m Shaquille Rizki Ramadhan Na
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Andriod and Multiplatform development
+- 🌱 I’m currently learning Android Native App development and Multiplatform App development
 - 💞️ I’m looking to collaborate on Mobile Development
 - 📫 How to reach me https://www.linkedin.com/in/shaquillerizki/
 
